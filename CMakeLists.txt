@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(PEBBL CXX)
+project(PEBBL_Examples CXX)
 include(CMakePackageConfigHelpers)
 
 set(include_install_dir "include" CACHE PATH "Relative location where to install headers.")

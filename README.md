@@ -1,2 +1,2 @@
-# pebbl
-Main repository for the PEBBL branch-and-bound library
+# pebbl_examples
+A repository of application examples for the PEBBL branch-and-bound library
